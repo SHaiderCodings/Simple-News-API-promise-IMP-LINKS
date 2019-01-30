@@ -1,0 +1,22 @@
+//using promise
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise
+
+Firebase Web App Tutorial - Basics - Introduction / Adding Data to Database [ Part 1 ]
+
+https://www.youtube.com/watch?v=F6UWb9FNnj4
+
+Firebase Authentication 
+https://firebase.google.com/docs/auth/web/password-auth
+
+BOOTSTRAP
+https://getbootstrap.com/docs/4.1/components/progress/
+
+M salman zafar
+https://github.com/Msalmanzafar
+
+
+
+Kashif Sulaiman
+https://github.com/kashifsulaiman/SMIT-Batch-5
+API KEY
+a059d909f5fd4da7817ce1d686e0ae6d
